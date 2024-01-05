@@ -1,0 +1,42 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 40rem;
+}.form-group-input-dcZ {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.form-group-input-dcZ .label-b3b {
+  margin-bottom: 0.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.3625;
+  color: #25282b;
+  font-family: Nunito, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.form-group-input-dcZ .input-Jyb {
+  width: 100%;
+  height: 4rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.1rem #e7ebf4;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}

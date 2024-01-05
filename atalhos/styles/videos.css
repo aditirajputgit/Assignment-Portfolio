@@ -1,0 +1,296 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.videos-4ey {
+  box-sizing: border-box;
+  padding: 10.9rem 4.8rem 6.4rem 23.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.videos-4ey .vdeos-recomendados-BDo {
+  margin: 0rem 70.2rem 8rem 0rem;
+  font-size: 8rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #25282b;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.videos-4ey .refs-HXj {
+  margin: 0rem 43.3rem 8rem 0rem;
+  row-gap: 1.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.videos-4ey .refs-HXj .workshop-de-ui-design-figma-parte-1-DRP {
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #25282b;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.videos-4ey .refs-HXj .https-wwwyoutubecom-watchvvlwhkm3r82mt2766s-aQM {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #2f80ed;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.videos-4ey .refs-HXj .andressa-belm-6Nh {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #52575c;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.videos-4ey .refs-2XF {
+  margin: 0rem 45rem 8rem 0rem;
+  row-gap: 1.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.videos-4ey .refs-2XF .workshop-de-ui-design-figma-parte-2-A7f {
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #25282b;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.videos-4ey .refs-2XF .https-wwwyoutubecom-watchvae56addyg-mt2660s-t3f {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #2f80ed;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.videos-4ey .refs-2XF .andressa-belm-oAd {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #52575c;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.videos-4ey .refs-w1w {
+  margin: 0rem 30.5rem 8rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.videos-4ey .refs-w1w .ltux-para-sptw-como-ux-pode-ser-aplicado-no-seu-portflio-e-porque-nunca-fizemos-isso-5P3 {
+  margin-bottom: 1.6rem;
+  max-width: 133.1rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #25282b;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.videos-4ey .refs-w1w .hannane-cherifi-kzy {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #52575c;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.videos-4ey .refs-h9X {
+  margin: 0rem 64.7rem 8rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.videos-4ey .refs-h9X .ltux-blumenau-dicas-de-portflio-e-entrevistas-3DP {
+  margin-bottom: 1.6rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #25282b;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.videos-4ey .refs-h9X .milena-bozek-9XK {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #52575c;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.videos-4ey .refs-5vm {
+  margin: 0rem 65.4rem 8rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.videos-4ey .refs-5vm .ltux-programa-de-mentoria-personal-branding-Rzd {
+  margin-bottom: 1.6rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #25282b;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.videos-4ey .refs-5vm .vanessa-kym-kn1 {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #52575c;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.videos-4ey .refs-JYd {
+  margin: 0rem 87rem 25.8rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.videos-4ey .refs-JYd .ladies-that-ux-natal-FTs {
+  margin-bottom: 1.6rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #25282b;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.videos-4ey .refs-JYd .https-wwwinstagramcom-ltuxnatal--zRT {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #1366a6;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.videos-4ey .logo-Kid {
+  margin-left: 151.2rem;
+  box-sizing: border-box;
+  padding: 1.654rem 1.653rem 1.636rem 2.327rem;
+  width: 12.4rem;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-L61.png');
+  flex-shrink: 0;
+}
+.videos-4ey .logo-Kid .auto-group-pvqz-1rM {
+  margin: 0rem 0.665rem 0.318rem 0rem;
+  box-sizing: border-box;
+  padding: 0.936rem 2.022rem 1.344rem 5.443rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-k4u.png');
+  flex-shrink: 0;
+}
+.videos-4ey .logo-Kid .auto-group-pvqz-1rM .vector-X41 {
+  width: 0.2806rem;
+  height: 0.2914rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.videos-4ey .logo-Kid .auto-group-sgzq-Swf {
+  margin: 0rem 0.664rem 0.552rem 0rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.videos-4ey .logo-Kid .auto-group-sgzq-Swf .vector-MYq {
+  margin: 0rem 0.383rem 0.202rem 0rem;
+  width: 3.33rem;
+  height: 1.7853rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.videos-4ey .logo-Kid .auto-group-sgzq-Swf .vector-UtM {
+  margin-right: 0.2252rem;
+  width: 1.8683rem;
+  height: 2.7693rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.videos-4ey .logo-Kid .auto-group-sgzq-Swf .vector-Dqw {
+  margin-bottom: 0.0227rem;
+  width: 1.9385rem;
+  height: 2.7466rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.videos-4ey .logo-Kid .auto-group-lcip-Mx9 {
+  width: 100%;
+  height: 2.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.videos-4ey .logo-Kid .auto-group-lcip-Mx9 .vector-7wK {
+  width: 7.7479rem;
+  height: 0.2439rem;
+  position: absolute;
+  left: 0;
+  top: 0.0122rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.videos-4ey .logo-Kid .auto-group-lcip-Mx9 .natal-G3X {
+  width: 8.4rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 0.0198rem;
+  top: 0;
+  font-size: 2.2768rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.4098rem;
+  color: #ffffff;
+  font-family: Bariol, 'Source Sans Pro';
+  white-space: nowrap;
+}

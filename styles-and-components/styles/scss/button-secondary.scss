@@ -1,0 +1,32 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 11.7rem;
+}.button-secondary-umo {
+  display: flex;
+  box-sizing: border-box;
+  font-family: Roboto, 'Source Sans Pro';
+  justify-content: center;
+  border: solid 0.2rem #25282b;
+  line-height: 1.5;
+  color: #25282b;
+  align-items: center;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  white-space: nowrap;
+  border-radius: 0.8rem;
+  width: 100%;
+}

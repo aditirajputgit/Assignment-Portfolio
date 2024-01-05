@@ -1,0 +1,31 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 11.5rem;
+}.button-primary-KfB {
+  width: 100%;
+  height: 4.3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #25282b;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  font-size: 1.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fdc435;
+  border-radius: 0.8rem;
+}
