@@ -1,22 +1,38 @@
 function addProject() {
-    // Get project details from the form
-    var projectName = document.getElementById('projectName').value;
-    var projectDescription = document.getElementById('projectDescription').value;
-    console.log(projectName);
-    // Validate if project name and description are not empty
-    if (projectName && projectDescription) {
-        // Create a new project element
-        var projectElement = document.createElement('div');
-        projectElement.classList.add('project');
-        projectElement.innerHTML = `<h3>${projectName}</h3><p>${projectDescription}</p>`;
-
-        // Append the project to the Projects View section
-        document.getElementById('projectsView').appendChild(projectElement);
-
-        // Clear the form fields
-        document.getElementById('projectName').value = '';
-        document.getElementById('projectDescription').value = '';
-    } else {
-        alert('Please fill in both project name and description.');
+    const projectName = document.getElementById('projectName').value;
+    const projectsName = document.getElementById("projectsName");
+    const projectLink = document.getElementById('projectLink').value;
+    const projectDescription = document.getElementById('projectDescription').value;
+    const projectsDesc = document.getElementById("projectsDesc")
+    const projectsView = document.getElementById('projectsView');
+    const projectDiv = document.createElement('div');
+    const button = document.getElementById("button")
+    if(projectName == "" || projectDescription == "" || projectLink == ""){
+        alert("Fill all the details")
     }
+    console.log(projectName);
+    projectsName.textContent = projectName
+    projectsDesc.textContent = projectDescription
+    
+    button.addEventListener("click" , () =>{
+        var a = document.createElement('a'); 
+        a.setAttribute("href", projectLink);
+        a.appendChild(button); 
+        window.location.href = projectLink
+        //alert(`Project Link: ${projectLink}`);
+    })
+    projectDiv.innerHTML = `
+      <div class="project-gZB">
+        <p class="text-Ej7">${projectName}</p>
+        <p class="text-nVj">${projectDescription}</p>
+        <div class="boto-secudrio-L1T">View Project</div>
+      </div>
+    `;
+
+    projectsView.appendChild(projectDiv);
+
+    // Clear form fields
+    document.getElementById('projectName').value = '';
+    document.getElementById('projectLink').value = '';
+    document.getElementById('projectDescription').value = '';
 }

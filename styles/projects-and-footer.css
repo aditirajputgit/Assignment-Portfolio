@@ -1,4 +1,9 @@
 
+
+html {
+	font-size:55%;
+}
+
 html {
 	font-size:62.5%;
 }
@@ -12,6 +17,9 @@ ul, li {
 input {
 	border: none;
 }
+body {
+  width: 144rem;
+}
 .projects-and-footer-Qr1 {
   box-sizing: border-box;
   padding: 0rem 0rem 0.011rem 0.4rem;
@@ -24,14 +32,14 @@ input {
   background-color: #f9faff;
 }
 .projects-and-footer-Qr1 .auto-group-3pnf-mKB {
-  margin: 0rem 0rem 30.5rem 11.6rem;
-  width: 132rem;
-  height: 49rem;
+  margin: 0rem 0rem 10.5rem 11.6rem;
+  width: 122rem;
+  height: 62.9rem;
   position: relative;
   flex-shrink: 0;
 }
 .projects-and-footer-Qr1 .auto-group-3pnf-mKB .image-EMB {
-  width: 42rem;
+  width: 72rem;
   height: 62.9rem;
   position: absolute;
   left: 60rem;
@@ -68,6 +76,29 @@ input {
   white-space: nowrap;
   flex-shrink: 0;
 }
+.button-primary-p2Q {
+  align-items: center;
+  background-color:  #fdc435;
+  border-radius: 0.8rem;
+  color:  #25282b;
+  display: flex;
+  flex-shrink: 0;
+  font-family:  Roboto, 'Source Sans Pro';
+  font-size: 1.8rem;
+  font-weight: 500;
+  height: 4.3rem;
+  justify-content: 
+  center;
+  line-height
+  : 
+  1.5;
+  white-space
+  : 
+  nowrap;
+  width
+  : 
+  8.1rem;
+  }
 .projects-and-footer-Qr1 .auto-group-3pnf-mKB .header-p4V .nav-oh7 {
   margin: 0.2rem 0rem 0.3rem 0rem;
   height: calc(100% - 0.5rem);

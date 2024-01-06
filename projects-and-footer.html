@@ -24,10 +24,11 @@ body {
   line-height: normal;
 }
 </style>
+<script src="project-with-a-form.js"></script>
 <body>
 <div class="projects-and-footer-Qr1">
+  <div id = "About">
   <div class="auto-group-3pnf-mKB">
-    <div id = "About">
     <div class="image-EMB">
       <img class="image-wmP" src="./assets/image.png"/>
     </div>
@@ -45,10 +46,11 @@ body {
         <p class="title-Jfo">Hello,  my name is Madelyn Torff</p>
         <div class="auto-group-wkij-37b">
           <p class="text-Axu">Short text with details about you, what you do or your professional career. You can add more information on the about page.</p>
+        </div>
           <div class="buttons-DZo">
-            <div class="button-primary-9yF">Projects</div>
+            <div class="button-primary-9yF"><a href = "#project">Projects</a></div>
             <div class="button-secondary-p3o">LinkedIn</div>
-          </div>
+          
         </div>
       </div>
     </div>
@@ -71,15 +73,15 @@ body {
             <input type="text" id="projectName" class="input-2jP" required>          
         </div>
         <div class="form-group-input-9Z7">
-            <label class="label-Jgu" for="projectName">Project link:</label>
-            <input type="text" id="projectName" class="input-qRw" required>
+            <label class="label-Jgu" for="projectLink">Project link:</label>
+            <input type="text" id="projectLink" class="input-qRw" required>
         </div>
         <div class="form-group-textarea-koo">
-          <label class="label-pHs" for="projectName">Project link:</label>
-            <input type="text" id="projectName" class="textarea-M2u" required>
+          <label class="label-pHs" for="projectDescription">Project Description:</label>
+            <input type="text" id="projectDescription" class="textarea-M2u" required>
         </div>
-        <div ></div>
-        <button  type="button" onclick="addProject()">Add </button>
+        <input type="button" value="Add">
+        <button onclick="addProject()">Add </button>
       </form>
       </div>
     </div>
@@ -94,9 +96,9 @@ body {
     <div class="project1-mWm">
       <div class="project-nfo-WjF">
         <div class="frame-3350-Ev9">
-          <p class="text-ZxR">Project Name</p>
-          <p class="text-i4d">I created this personal project in order to show how to create an interface in Figma using a portfolio as an example.</p>
-          <div class="boto-secudrio-FKT">View Project</div>
+          <p class="text-ZxR" id = "projectsName">Project Name</p>
+          <p class="text-i4d" id = "projectsDesc">I created this personal project in order to show how to create an interface in Figma using a portfolio as an example.</p>
+          <button type="button" class="boto-secudrio-FKT" id = "button"> View Project</button>
         </div>
       </div>
       <div class="pexels-elly-fairytale-3823207-1-rq3">
@@ -123,9 +125,8 @@ body {
       <img class="rectangle-7-wJ5" src="./assets/rectangle-7.png"/>
     </div>
     <div id="projectsView">
-      <!-- Display projects here -->
-      hhlloo
-  </div>
+      <!-- Display existing projects -->
+    </div>
   </div>
   
   <div class="footer-icons-5d7" id = "Contact">

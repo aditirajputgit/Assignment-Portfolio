@@ -1,6 +1,6 @@
 
 * {
-	margin: 0;
+	margin: .5rem;
 	padding: 0;
 }
 ul, li {
@@ -10,13 +10,14 @@ input {
 	border: solid black 1px;
 }
 body {
-  width: 143.6rem;
+  width: 130.6rem;
 }.project-with-a-form-yqf {
   width: 100%;
   align-items: center;
   display: flex;
   flex-direction: column;
 }
+
 .project-with-a-form-yqf .auto-group-8bk7-vku {
   box-sizing: border-box;
   padding: 0rem 40.6rem 3.3rem 25.3rem;
@@ -168,6 +169,7 @@ body {
 }
 .project-with-a-form-yqf .auto-group-36hz-MSD {
   margin-bottom: 20rem;
+  margin-top: 5rem;
   width: 148rem;
   height: 16.7rem;
   position: relative;
