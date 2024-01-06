@@ -21,13 +21,13 @@ function addProject() {
         window.location.href = projectLink
         //alert(`Project Link: ${projectLink}`);
     })
-    projectDiv.innerHTML = `
+    /*projectDiv.innerHTML = `
       <div class="project-gZB">
         <p class="text-Ej7">${projectName}</p>
         <p class="text-nVj">${projectDescription}</p>
         <div class="boto-secudrio-L1T">View Project</div>
       </div>
-    `;
+    `;*/
 
     projectsView.appendChild(projectDiv);
 
